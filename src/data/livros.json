@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.R.R. Tolkien",
+    "ano": 1954
+  },
+  {
+    "id": 2,
+    "titulo": "Clean Architecture",
+    "autor": "Robert C. Martin",
+    "categoria": "Programação",
+    "ano": 2017
+  },
+  {
+    "id": 3,
+    "titulo": "Novo Livro",
+    "autor": "Autor",
+    "categoria": "Categ",
+    "ano": 2025
+  },
+  {
+    "id": 4,
+    "titulo": "Novo Livro",
+    "autor": "Autor",
+    "categoria": "Categ",
+    "ano": 2025
+  },
+  {
+    "id": 5,
+    "titulo": "Novo Livro",
+    "autor": "Autor",
+    "categoria": "Categ",
+    "ano": 2025
+  },
+  {
+    "id": 6,
+    "titulo": "Novo Livro",
+    "autor": "Autor",
+    "categoria": "Categ",
+    "ano": 2025
+  },
+  {
+    "id": 7,
+    "titulo": "Novo Livro",
+    "autor": "Autor",
+    "categoria": "Categ",
+    "ano": 2025
+  },
+  {
+    "id": 8,
+    "titulo": "Novo Livro",
+    "autor": "Autor",
+    "categoria": "Categ",
+    "ano": 2025
+  },
+  {
+    "id": 9,
+    "titulo": "Novo Livro",
+    "autor": "Autor",
+    "categoria": "Categ",
+    "ano": 2025
+  },
+  {
+    "id": 10,
+    "titulo": "Novo Livro",
+    "autor": "Autor",
+    "categoria": "Categ",
+    "ano": 2025
+  },
+  {
+    "id": 11,
+    "titulo": "Novo Livro",
+    "autor": "Autor",
+    "categoria": "Categ",
+    "ano": 2025
+  },
+  {
+    "id": 12,
+    "titulo": "Novo Livro",
+    "autor": "Autor",
+    "categoria": "Categ",
+    "ano": 2025
+  },
+  {
+    "id": 13,
+    "titulo": "Memorias do Subsolo",
+    "autor": "Kafka",
+    "categoria": "Romance",
+    "ano": 1862
+  }
+]
