@@ -3,6 +3,7 @@
     "id": 1,
     "titulo": "O Senhor dos Anéis",
     "autor": "J.R.R. Tolkien",
+    "categoria": "undefined",
     "ano": 1954
   },
   {
@@ -70,13 +71,6 @@
   },
   {
     "id": 11,
-    "titulo": "Novo Livro",
-    "autor": "Autor",
-    "categoria": "Categ",
-    "ano": 2025
-  },
-  {
-    "id": 12,
     "titulo": "Novo Livro",
     "autor": "Autor",
     "categoria": "Categ",
